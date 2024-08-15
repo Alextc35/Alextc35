@@ -12,8 +12,8 @@ I am a **Web Application Development student** with a great passion for full-sta
 
 ## 🎓 Education
 
-- **Technical Degree in Microcomputer Systems and Networks** - [IES Luis Braille] (2021 - 2023)
-- **Web Application Development** - [IES Luis Braille] (2023 - 2025)
+- **Technical Medium Degree in Microcomputer Systems and Networks** - [IES Luis Braille] (2021 - 2023)
+- **Superior Degree Web Application Development** - [IES Luis Braille] (2023 - 2025)
 - **Ethical Hacking Certification** - [Specialist Course](https://openwebinars.net/cert/uw1N)
 
 ## 🛠 Experience and Projects

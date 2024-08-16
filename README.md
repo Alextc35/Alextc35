@@ -27,7 +27,7 @@ My primary goal is to **learn JavaScript and React** to specialize in front-end 
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Alejandro Téllez Corona](https://www.linkedin.com/in/alejandro-t%C3%A9llez-corona-816397238/)
+- **LinkedIn**: [Alejandro Téllez Corona](https://www.linkedin.com/in/alejandrotellezcorona/)
 - **Twitter**: [@Alextc35](https://x.com/Alextc35)
 - **Instagram**: [@alextc35](https://www.instagram.com/alextc35/)
 

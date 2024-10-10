@@ -4,7 +4,7 @@ I am a **Web Application Development student** with a great passion for full-sta
 
 ## 🚀 What I'm Learning
 
-- **Programming Languages**: HTML5, CSS, Java, Python, SQL, PL/SQL
+- **Programming Languages**: HTML5, CSS3, JavaScript, Java, PHP, Python, SQL, PL/SQL
 - **Frameworks and Technologies**: JavaScript (currently learning), React (currently learning)
 - **Tools and Systems**: Linux, Windows, Gimp, Word, PowerPoint, Excel
 - **Additional Knowledge**: XML, DTD, XSD, UML, networking (DNS, DHCP servers), Oracle databases

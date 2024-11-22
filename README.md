@@ -1,38 +1,31 @@
-# Hi, I'm Alex 👋
+# Hola, soy Alex 👋
 
-I am a **Web Application Development student** with a great passion for full-stack design and programming. Currently, I am in my final year of the course, graduating in 2025, and I am excited about the opportunities ahead.
+Soy estudiante de **Desarrollo de Aplicaciones Web** con una gran pasión por el diseño y la programación full-stack. Actualmente estoy en mi último año del ciclo, con la graduación prevista en 2025.
 
-## 🚀 What I'm Learning
+## 🚀 Lo que estoy aprendiendo
 
-- **Programming Languages**: HTML5, CSS3, JavaScript, Java, PHP, Python, SQL, PL/SQL
-- **Frameworks and Technologies**: JavaScript (currently learning), React (currently learning)
-- **Tools and Systems**: Linux, Windows, Gimp, Word, PowerPoint, Excel
-- **Additional Knowledge**: XML, DTD, XSD, UML, networking (DNS, DHCP servers), Oracle databases
-- **Bash Scripting**: Automation and scripting in Unix environments
+- **Lenguajes de Programación**: JavaScript, Java, PHP, Python, PL/SQL
+- **Frameworks y Tecnologías**: HTML5, CSS3
+- **Herramientas y Sistemas**: Oracle Database, SQL, Linux, Windows, Gimp, Word, PowerPoint, Excel
+- **Conocimientos Adicionales**: JSON, XML, DTD, XSD, UML, redes (servidores DNS, DHCP)
 
-## 🎓 Education
+## 🎓 Educación
 
-- **Technical Medium Degree in Microcomputer Systems and Networks** - [IES Luis Braille] (2021 - 2023)
-- **Superior Degree Web Application Development** - [IES Luis Braille] (2023 - 2025)
-- **Ethical Hacking Certification** - [Specialist Course](https://openwebinars.net/cert/uw1N)
+- **Grado Medio en Sistemas Microinformáticos y Redes** - [IES Luis Braille] (2021 - 2023)
+- **Grado Superior en Desarrollo de Aplicaciones Web** - [IES Luis Braille] (2023 - 2025)
 
-## 🛠 Experience and Projects
+## 🛠 Experiencia y Proyectos
 
-- **Printer Shop Work**: Computer formatting, installation, and configuration of routers.
-- **Ongoing Projects**: Currently in the learning and development phase.
+- **Tienda de informática/impresoras**: Formateo de computadoras, instalación y configuración de routers/firewalls.
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-My primary goal is to **learn JavaScript and React** to specialize in front-end development. I am particularly interested in building interactive and optimized user interfaces.
+Mi principal objetivo es continuar mejorando tanto en back-end como en front-end, ya que disfruto trabajando en todas las etapas del desarrollo de aplicaciones. Me apasiona el proceso de programar, desde diseñar interfaces de usuario hasta estructurar y optimizar la lógica detrás de los sistemas.
 
-## 📫 Contact Me
+## 📫 Contáctame
 
 - **LinkedIn**: [Alejandro Téllez Corona](https://www.linkedin.com/in/alejandrotellezcorona/)
 - **Twitter**: [@Alextc35](https://x.com/Alextc35)
 - **Instagram**: [@alextc35](https://www.instagram.com/alextc35/)
 
-Thank you for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out.
-
----
-
-> "Talk is cheap. Show me the code." - Linus Torvalds
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en escribirme.

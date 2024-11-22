@@ -5,7 +5,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** con una gran pasión por el
 ## 🚀 Lo que estoy aprendiendo
 
 - **Lenguajes de Programación**: JavaScript, Java, PHP, Python, PL/SQL
-- **Frameworks y Tecnologías**: HTML5, CSS3
+- **Herramientas**: HTML5, CSS3
 - **Herramientas y Sistemas**: Oracle Database, SQL, Linux, Windows, Gimp, Word, PowerPoint, Excel
 - **Conocimientos Adicionales**: JSON, XML, DTD, XSD, UML, redes (servidores DNS, DHCP)
 
@@ -14,7 +14,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** con una gran pasión por el
 - **Grado Medio en Sistemas Microinformáticos y Redes** - [IES Luis Braille] (2021 - 2023)
 - **Grado Superior en Desarrollo de Aplicaciones Web** - [IES Luis Braille] (2023 - 2025)
 
-## 🛠 Experiencia y Proyectos
+## 🛠 Experiencia
 
 - **Tienda de informática/impresoras**: Formateo de computadoras, instalación y configuración de routers/firewalls.
 

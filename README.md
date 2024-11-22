@@ -22,10 +22,4 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** con una gran pasión por el
 
 Mi principal objetivo es continuar mejorando tanto en back-end como en front-end, ya que disfruto trabajando en todas las etapas del desarrollo de aplicaciones. Me apasiona el proceso de programar, desde diseñar interfaces de usuario hasta estructurar y optimizar la lógica detrás de los sistemas.
 
-## 📫 Contáctame
-
-- **LinkedIn**: [Alejandro Téllez Corona](https://www.linkedin.com/in/alejandrotellezcorona/)
-- **Twitter**: [@Alextc35](https://x.com/Alextc35)
-- **Instagram**: [@alextc35](https://www.instagram.com/alextc35/)
-
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en escribirme.

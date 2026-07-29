@@ -16,7 +16,7 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: alextc35
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -23,37 +23,37 @@
     </picture>
   </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alextc35&theme=tokyo-night)](...)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alextc35&theme=tokyo-night)](...)
 
-![Website](https://img.shields.io/badge/alextc.es-171A21?style=for-the-badge&logo=googlechrome&logoColor=white)
-  ![Visitantes](https://komarev.com/ghpvc/?username=alextc35&color=171A21&style=for-the-badge&label=Visitantes)
+ [![Website](https://img.shields.io/badge/alextc.es-171A21?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alextc.es)
+ ![Visitantes](https://komarev.com/ghpvc/?username=alextc35&color=171A21&style=for-the-badge&label=Visitantes)
 
 ---
 
 <div align="center">
 
 <table align="center">
-<tr>
-<td align="center" width="50%">
-
-<a href="https://steamcommunity.com/id/Alextc35">
-<img src="https://avatars.akamai.steamstatic.com/2812c0307b61a73a8ecb7176f9d52a47b9502707_full.jpg" width="170"/>
-</a>
-
-<br><br>
-
-<a href="https://steamcommunity.com/id/Alextc35">
-<img src="https://img.shields.io/badge/Steam_Profile-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=gz0kmzzk3kode6e5lcj8fh4ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-</tr>
+ <tr>
+  <td align="center" width="50%">
+  
+   <a href="https://steamcommunity.com/id/Alextc35">
+   <img src="https://avatars.akamai.steamstatic.com/2812c0307b61a73a8ecb7176f9d52a47b9502707_full.jpg" width="170"/>
+   </a>
+   
+   <br><br>
+   
+   <a href="https://steamcommunity.com/id/Alextc35">
+   <img src="https://img.shields.io/badge/Steam_Profile-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+   </a>
+  
+  </td>
+  
+  <td align="center" width="50%">
+  
+   [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=gz0kmzzk3kode6e5lcj8fh4ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+   
+  </td>
+ </tr>
 </table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrotellezcorona/)

@@ -16,7 +16,17 @@
 
 I'm 25 years old.
 
-🔭 &nbsp;I'm currently working on **[Spacetab](https://github.com/Alextc35/spacetab)**  
+🔭 &nbsp;I'm currently building **[Spacetab](https://github.com/Alextc35/spacetab)** — a customizable new tab experience for your browser.
+
+<p>
+  <a href="https://github.com/Alextc35/spacetab">
+    <img
+      src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Alextc35&repo=spacetab&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000"
+      alt="Spacetab"
+    />
+  </a>
+</p>
+
 🌱 &nbsp;I'm currently learning **Full Stack Development and Cloud Architecture as part of my Master's at Tajamar in Madrid.**
 
 ### 🛠️ Tech Stack
@@ -28,8 +38,6 @@ I'm 25 years old.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />

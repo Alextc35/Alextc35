@@ -16,13 +16,13 @@
 
 I'm 25 years old.
 
-🔭 &nbsp;I'm currently building **[Spacetab](https://github.com/Alextc35/spacetab)** — a customizable new tab experience for your browser.
+🔭 &nbsp;I'm currently building **[newdesktab](https://github.com/Alextc35/newdesktab)** — a customizable new desktab experience for your browser.
 
 <p>
-  <a href="https://github.com/Alextc35/spacetab">
+  <a href="https://github.com/Alextc35/newdesktab">
     <img
-      src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Alextc35&repo=spacetab&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000"
-      alt="Spacetab"
+      src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Alextc35&repo=newdesktab&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000"
+      alt="New DeskTab"
     />
   </a>
 </p>

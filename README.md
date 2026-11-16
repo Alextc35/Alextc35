@@ -26,13 +26,15 @@ From 🇪🇸.
 
 ### 💻 Development
 
-🔭 &nbsp;I am currently building **[new desktab](https://github.com/Alextc35/newdesktab)** — a customizable **new *desktab*** experience for your browser.
+Creator and maintainer of **[newdesktab](https://github.com/Alextc35/newdesktab)** — a customizable New Tab experience for Google Chrome.
+
+✅ &nbsp;**v1.0.0 released**
 
 <p>
   <a href="https://github.com/Alextc35/newdesktab">
     <img
       src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Alextc35&repo=newdesktab&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000"
-      alt="New DeskTab"
+      alt="newdesktab GitHub Repository"
     />
   </a>
 </p>
